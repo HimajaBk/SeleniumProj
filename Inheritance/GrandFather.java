@@ -13,7 +13,7 @@ public class GrandFather {
 	}
 	public void country()
 	{
-		System.out.println("Ind");
+		System.out.println("India");
 	}
 	
 	
